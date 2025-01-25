@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhay Waghole  
 
-<!--
-**Abhaywaghole61/Abhaywaghole61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Electronics and Computer Engineering Student  
+I'm an enthusiastic student eager to dive deep into **DevOps** and its systems, while continuously learning and building impactful projects. 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🎓 **Currently pursuing** Electronics and Computer Engineering.  
+- 💡 Passionate about DevOps tools, systems, and automation.  
+- 📚 Always eager to learn, grow, and contribute to exciting projects.  
+
+---
+
+## 🛠️ Skills  
+
+### Programming Languages  
+- 🐍 Python  
+- 🖋️ C  
+- ➕ C++  
+
+### Databases  
+- 🛢️ SQL  
+- 🍃 MongoDB  
+
+### Tools  
+- 🐧 **Linux** (Networking, Administration)  
+- 🌿 **Git** (In-depth commands)  
+- 🚀 **Jenkins** (CI/CD Pipelines, Master-Slave Setup)  
+- 🐋 **Docker** (Volumes, Networking, Architecture)  
+- ☸️ **Kubernetes** (Networking, CRDs, Troubleshooting)  
+- 📜 **Helm** (Publish Charts on Kubernetes)  
+- 🧩 **Istio, Kiali, Jaeger**  
+- ☁️ **AWS** (API Gateway, Route 53, ECS)  
+- 🌍 **Terraform** (Infra Creation & Deployment)  
+- 🛡️ **Ansible** (Playbooks, Vault)  
+- 📊 **Grafana & Prometheus** (Monitoring)  
+- 🔍 **Splunk** (Spring Boot Integration)  
+- 🧪 **Postman** (API Testing)  
+- 🔒 **SonarQube** (Security & Analysis)  
+- 🎨 **Visual Studio**  
+- 🏗️ **Jfrog**  
+- 🧵 **Shell Scripting**  
+- 🎵 **Apache Kafka**  
+
+---
+
+## 🎯 Interests  
+- 🌐 Web Development   
+- 🕹️ DevOps Systems and Automation
+- 🌐 Web Development 
+- 🔧 Open-Source Contributions 
+
+
+---
+
+## 🌍 Connect with Me  
+- 🌐 [LinkedIn](www.linkedin.com/in/abhay-waghole-5ba677243)  
+- 📧 [Email Me](abhaywaghole075@gmail.com)  
+
+---
+
+## ⚡ Fun Fact  
+_"Did you know? I love exploring cutting-edge technologies and integrating them into practical projects."_  
