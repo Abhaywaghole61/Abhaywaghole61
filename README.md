@@ -63,7 +63,8 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abhaywaghole075&show_icons=true&theme=radical" alt="Abhay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywaghole&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaywaghole075&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Abhay's GitHub Stats&token=YOUR_GITHUB_TOKEN" />
+
 </p>
 
 ---
