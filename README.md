@@ -53,16 +53,16 @@
 ---
 
 ## 🎯 Interests  
-- 🌐 **Web Development**  
 - 🕹️ **DevOps Systems & Automation**  
-- 🔧 **Open-Source Contributions**  
+- 🔧 **Open-Source Contributions**
+-  🌐 **Web Development**  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaywaghole&show_icons=true&theme=radical" alt="Abhay's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhaywaghole075&show_icons=true&theme=radical" alt="Abhay's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaywaghole&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
