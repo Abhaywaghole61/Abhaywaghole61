@@ -1,78 +1,80 @@
-# 👋 Hi, I'm Abhay Waghole  
+<div align="center">
 
-🚀 **DevOps Enthusiast | Web Developer | Open-Source Contributor**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Abhay%20Waghole&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descSize=22&descAlignY=60" width="100%" alt="Abhay Waghole banner"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Turning+raw+data+into+business+insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Open+to+remote+Data+Analyst+roles+%F0%9F%9A%80" alt="Typing animation"/>
 
-## 🌟 About Me  
-🎓 **Electronics and Computer Engineering Student**   
-💡 Passionate about **DevOps, Automation, and Cloud Technologies**  
-📚 Always learning and building impactful projects  
-⚡ Exploring **CI/CD, Kubernetes, AWS, and Infrastructure as Code**  
+![Open to remote](https://img.shields.io/badge/Open%20to-Remote%20roles-2ea44f?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Pune%2C%20India-0A66C2?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Abhaywaghole61&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
----
-
-## 🛠️ Tech Stack  
-
-### 💻 Programming Languages  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" title="C++" />
-</p>
+</div>
 
 ---
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" title="MongoDB" />
-</p>
+## 👋 About me
+
+- 🎓 Electronics and Computer Engineer
+- 📊 I turn raw data into clear insights and business recommendations
+- 💡 I start with a business question, then let the data answer it
+- 🌍 Open to remote Data Analyst roles
+- 🌱 Currently learning: advanced SQL, statistics and machine learning
 
 ---
 
-### ⚙️ DevOps & Tools  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" title="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" title="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" title="Terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="60" title="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="60" title="Grafana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="60" title="Prometheus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="60" title="SonarQube" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" title="AWS" />
-  <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="60" title="JFrog" />
+## 🎯 What I focus on
 
-</p>
+- 📈 Sales and pipeline analytics
+- 👥 Customer value and churn analysis
+- 💰 ROI and business case modeling
+- 🖥️ Dashboards that non-technical teams can use
 
 ---
 
-## 🎯 Interests  
-- 🕹️ **DevOps Systems & Automation**  
-- 🔧 **Open-Source Contributions**
--  🌐 **Web Development**  
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,pandas,numpy,matplotlib,sklearn,powerbi,excel,git,github,vscode&theme=dark" alt="Tech stack icons"/>
+
+</div>
+
+| Area | Tools |
+|---|---|
+| 💻 Programming | Python, SQL, C |
+| 🗄️ Databases | MySQL, PostgreSQL |
+| 🧹 Data analysis | NumPy, Pandas, data cleaning |
+| 📈 Visualization | Matplotlib, Seaborn, Power BI |
+| 🤖 Machine learning | scikit-learn, Regression, Classification |
+| 🧰 Tools | Excel, Git, GitHub, VS Code |
 
 ---
 
-## 📊 GitHub Stats  
+## 🌱 Currently learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhaywaghole075&show_icons=true&theme=radical" alt="Abhay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaywaghole075&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=Abhay's GitHub Stats&token=YOUR_GITHUB_TOKEN" />
+<div align="center">
 
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=Advanced+SQL%3A+window+functions+and+cohorts;Statistics+for+analysts;Machine+learning+fundamentals" alt="Currently learning"/>
 
----
-
-## 🌍 Connect with Me  
-📩 **Email**: [abhaywaghole075@gmail.com](mailto:abhaywaghole075@gmail.com)  
-🔗 **LinkedIn**: [Abhay Waghole](https://www.linkedin.com/in/abhay-waghole-5ba677243)  
+</div>
 
 ---
 
-🚀 *"Embracing DevOps, Automating the Future!"* 🚀  
+## 🎲 Beyond data
+
+🍳 Cooking new cuisines · ✈️ Exploring new places · 🏊 Swimming
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-abhaywaghole@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaywaghole@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20Waghole-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/abhay-waghole-5ba677243)
+
+*Data tells a story. My job is to tell it clearly.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+
+</div>
