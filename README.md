@@ -35,17 +35,30 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,pandas,numpy,matplotlib,sklearn,powerbi,excel,git,github,vscode&theme=dark" alt="Tech stack icons"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="46" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="46" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="46" alt="Matplotlib"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="46" alt="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="VS Code"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 </div>
 
 | Area | Tools |
 |---|---|
-| 💻 Programming | Python, SQL, C |
+| 💻 Programming | Python, SQL, |
 | 🗄️ Databases | MySQL, PostgreSQL |
-| 🧹 Data analysis | NumPy, Pandas, data cleaning |
-| 📈 Visualization | Matplotlib, Seaborn, Power BI |
-| 🤖 Machine learning | scikit-learn, Regression, Classification |
+| 🧹 Data analysis | NumPy, Pandas, Data Cleaning |
+| 📈 Visualization | Matplotlib, Power BI |
+| 🤖 Machine learning | Scikit-learn, Regression, Classification |
 | 🧰 Tools | Excel, Git, GitHub, VS Code |
 
 ---
